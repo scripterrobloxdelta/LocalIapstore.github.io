@@ -1,8 +1,8 @@
-Origin: Opal Beta Repo
-Label: Opal Beta Repo
+Origin: LocalIA Repo
+Label: LocalIA Repo
 Suite: stable
 Version: 1.0
-Codename: stable
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Opal theme hosted here by iKilledAppl3 (theme by Renouri)
+Description: LocalIAPStore repository
