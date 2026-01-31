@@ -6,8 +6,9 @@ Section: Tweaks
 Maintainer: iKilledAppl3 <ikilledappl3@ikilledappl3.netau.net>
 Author: Renouri <renouri@outlook.com>
 Description: Local in-app purchase testing tweak for iOS.
-Filename: ./DEBs/anondev.LocalIAPStore_1.4-1_iphoneos-arm.deb
+Filename: ./DEBs/io.github.localiapstore_1.4-1_iphoneos-arm.deb
 Size: 16692254
 MD5sum: 2b634c9ce0b86a0b84c110e3a03fcade
 Depiction: http://TWOJA_DOMENA/info/io.github.localiapstore/
+
 
