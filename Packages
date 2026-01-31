@@ -1,13 +1,10 @@
 Package: io.github.localiapstore
-Name: LocalIApstore
-Version: 0.2
-Author: Renouri <renouri@outlook.com>
-Maintainer: iKilledAppl3 <ikilledappl3@ikilledappl3.netau.net>
-Description: An awesome iOS Theme!
-Depiction: http://opalbeta.ikilledappl3.netau.net/info/com.example.package/index.html
+Name: LocalIAPStore
+Version: 1.4-1
 Architecture: iphoneos-arm
-Section: Themes (SpringBoard)
+Section: Tweaks
+Maintainer: iKilledAppl3 <ikilledappl3@ikilledappl3.netau.net>
+Author: Renouri <renouri@outlook.com>
+Description: Local in-app purchase testing tweak for iOS.
+Depiction: http://opalbeta.ikilledappl3.netau.net/info/io.github.localiapstore/index.html
 Size: 16692254
-Filename: ./DEBs/anondev.LocalIAPStore_1.4-1_iphoneos-arm.deb
-Icon: file:///Library/Themes/Opal.theme/IconBundles/jp.co.fang.squaready@3x.png
-MD5sum: 2b634c9ce0b86a0b84c110e3a03fcade
